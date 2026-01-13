@@ -26,10 +26,10 @@ This project demonstrates core front-end concepts like DOM manipulation, event h
 ## 📸 Screenshots
 
 ### Game Board
-![Tic Tac Toe Screenshot 1](Assets/img1.png)
+![Tic Tac Toe Screenshot 1](assets/img1.png)
 
 ### Gameplay in Action
-![Tic Tac Toe Screenshot 2](Assets/img2.png)
+![Tic Tac Toe Screenshot 2](assets/img2.png)
 
 > 📌 *Screenshots are loaded directly from the project folder.*
 
